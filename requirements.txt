@@ -1,2 +1,7 @@
 langchain
 langchain-community
+langsmith
+langchain_experimental
+langgraph
+langchain_core
+langchain_together
